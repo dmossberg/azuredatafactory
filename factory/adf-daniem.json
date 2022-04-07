@@ -1,0 +1,9 @@
+{
+	"name": "adf-daniem",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f146a1d-7b6d-42ac-8319-50579c7a64a0",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
